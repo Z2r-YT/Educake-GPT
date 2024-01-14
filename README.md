@@ -1,2 +1,2 @@
-# Educake-Pasting
-userscript that reenables pasting on educake so you can steal your answers and shit
+# Educake-GPT
+userscript that adds a ChatGPT button to the header on the Educake Quiz site, and also allows pasting in the text box.
